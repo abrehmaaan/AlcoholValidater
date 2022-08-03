@@ -1,0 +1,16 @@
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.vbproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.vbproj.GenerateResource.cache
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.AssemblyInfo.vb
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.vbproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol_Validater.Form1.resources
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\bin\Debug\netcoreapp3.1\Alcohol Validater.exe
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\bin\Debug\netcoreapp3.1\Alcohol Validater.deps.json
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\bin\Debug\netcoreapp3.1\Alcohol Validater.runtimeconfig.json
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\bin\Debug\netcoreapp3.1\Alcohol Validater.runtimeconfig.dev.json
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\bin\Debug\netcoreapp3.1\Alcohol Validater.dll
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\bin\Debug\netcoreapp3.1\Alcohol Validater.pdb
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.dll
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.pdb
+C:\Users\dell\Downloads\Alcohol Validater\Alcohol Validater\obj\Debug\netcoreapp3.1\Alcohol Validater.genruntimeconfig.cache
